@@ -46,6 +46,12 @@ class MyApp extends StatelessWidget {
             foregroundColor: WidgetStateProperty.all(yellowColor),
           ),
         ),
+        textButtonTheme: TextButtonThemeData(
+          style: ButtonStyle(
+            backgroundColor: WidgetStateProperty.all(blackColor),
+            foregroundColor: WidgetStateProperty.all(whiteColor),
+          ),
+        ),
       ),
       home: const HomePage(),
     );

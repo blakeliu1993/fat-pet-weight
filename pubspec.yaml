@@ -16,10 +16,10 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+1
+version: 1.0.1+1
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.7.0
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -41,8 +41,13 @@ dependencies:
   google_fonts: ^6.2.1
   animations: ^2.0.11
   font_awesome_flutter: ^10.8.0
-  image_picker: ^1.1.2
-  permission_handler: ^12.0.1
+  image_picker: ^1.1.2 # for image picker
+  permission_handler: ^12.0.1 # for permission handling
+  http: ^1.4.0 # for http request
+  flutter_image_compress: ^2.4.0 # for image compression
+  tflite_flutter: ^0.11.0
+  device_info_plus: ^11.4.0
+  image: ^4.5.4
 
 dev_dependencies:
   flutter_test:
@@ -74,6 +79,8 @@ flutter:
   assets:
     - assets/fonts/
     - assets/images/
+    - assets/yolo/
+    - assets/yolo/android/yolov5s.tflite
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
