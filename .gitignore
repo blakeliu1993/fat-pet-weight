@@ -32,6 +32,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+pubspec.lock
 
 # Symbolication related
 app.*.symbols
@@ -50,4 +51,11 @@ CLAUDE.md
 
 # Ios files
 ios/Podfile*
+ios/Runner.xcodeproj/project.pbxproj
 
+# cursor
+.cursor*
+
+# copilot
+.github
+.vscode

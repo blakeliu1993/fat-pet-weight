@@ -1,0 +1,2252 @@
+[
+  {
+    "row_number": 2,
+    "pet_name": "Affenpinscher",
+    "pet_name_cn": "猴面犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 3,
+    "pet_name": "Afghan Hound",
+    "pet_name_cn": "阿富汗猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 4,
+    "pet_name": "Aidi",
+    "pet_name_cn": "阿特拉斯山犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 5,
+    "pet_name": "Airedale Terrier",
+    "pet_name_cn": "艾尔谷犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 6,
+    "pet_name": "Akita",
+    "pet_name_cn": "秋田犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 7,
+    "pet_name": "Alaskan Malamute",
+    "pet_name_cn": "阿拉斯加雪橇犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 8,
+    "pet_name": "Alpine Dachsbracke",
+    "pet_name_cn": "阿尔卑斯达克斯布拉克犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 9,
+    "pet_name": "American Akita",
+    "pet_name_cn": "美国秋田犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 10,
+    "pet_name": "American Cocker Spaniel",
+    "pet_name_cn": "美国可卡犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 11,
+    "pet_name": "American Foxhound",
+    "pet_name_cn": "美国猎狐犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 12,
+    "pet_name": "American Staffordshire Terrier",
+    "pet_name_cn": "美国斯塔福梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 13,
+    "pet_name": "American Water Spaniel",
+    "pet_name_cn": "美国水猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 14,
+    "pet_name": "Anglo-Français de Petite Venerie",
+    "pet_name_cn": "英法小猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 15,
+    "pet_name": "Anjing Kintamani-Bali",
+    "pet_name_cn": "巴厘金塔玛尼犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 16,
+    "pet_name": "Appenzeller Sennenhund",
+    "pet_name_cn": "阿彭策尔山地犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 17,
+    "pet_name": "Ariegeois",
+    "pet_name_cn": "阿里埃日犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 18,
+    "pet_name": "Australian Cattle Dog",
+    "pet_name_cn": "澳大利亚牧牛犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 19,
+    "pet_name": "Australian Kelpie",
+    "pet_name_cn": "澳大利亚卡尔比犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 20,
+    "pet_name": "Australian Shepherd",
+    "pet_name_cn": "澳大利亚牧羊犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 21,
+    "pet_name": "Silky Terrier",
+    "pet_name_cn": "澳大利亚丝毛梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 22,
+    "pet_name": "Australian Stumpy Tail Cattle Dog",
+    "pet_name_cn": "澳大利亚短尾牧牛犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 23,
+    "pet_name": "Australian Terrier",
+    "pet_name_cn": "澳大利亚梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 24,
+    "pet_name": "Azawakh",
+    "pet_name_cn": "阿扎瓦克犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 25,
+    "pet_name": "Barbet",
+    "pet_name_cn": "巴贝特犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 26,
+    "pet_name": "Basenji",
+    "pet_name_cn": "巴仙吉犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 27,
+    "pet_name": "Basset Artesien Normand",
+    "pet_name_cn": "诺曼底阿提桑短腿犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 28,
+    "pet_name": "Basset Bleu De Gascogne",
+    "pet_name_cn": "加斯科尼蓝短腿犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 29,
+    "pet_name": "Basset Fauve De Bretagne",
+    "pet_name_cn": "布列塔尼浅黄短腿犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 30,
+    "pet_name": "Basset Hound",
+    "pet_name_cn": "巴吉度猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 31,
+    "pet_name": "Bayerischer Gebirgsschweisshund",
+    "pet_name_cn": "巴伐利亚山地猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 32,
+    "pet_name": "Beagle",
+    "pet_name_cn": "比格犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 33,
+    "pet_name": "Beagle-Harrier",
+    "pet_name_cn": "比格猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 34,
+    "pet_name": "Bearded Collie",
+    "pet_name_cn": "胡子牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 35,
+    "pet_name": "Bedlington Terrier",
+    "pet_name_cn": "贝灵顿梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 36,
+    "pet_name": "Berger Blanc Suisse",
+    "pet_name_cn": "瑞士白牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 37,
+    "pet_name": "Berger De Beauce",
+    "pet_name_cn": "博斯牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 38,
+    "pet_name": "Berger De Brie",
+    "pet_name_cn": "布里牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 39,
+    "pet_name": "Berger De Picardie",
+    "pet_name_cn": "皮卡第牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 40,
+    "pet_name": "Bernese Mountain Dog",
+    "pet_name_cn": "伯恩山犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 41,
+    "pet_name": "Bichon Frise",
+    "pet_name_cn": "卷毛比熊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 42,
+    "pet_name": "Havanese",
+    "pet_name_cn": "哈瓦那犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 43,
+    "pet_name": "Billy",
+    "pet_name_cn": "比利犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 44,
+    "pet_name": "Black and Tan Coonhound",
+    "pet_name_cn": "黑褐猎浣熊犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 45,
+    "pet_name": "Bolognese",
+    "pet_name_cn": "博洛尼亚犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 46,
+    "pet_name": "Border Collie",
+    "pet_name_cn": "边境牧羊犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 47,
+    "pet_name": "Border Terrier",
+    "pet_name_cn": "边境梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 48,
+    "pet_name": "Bosanski Ostrodlaki Gonic-Barak",
+    "pet_name_cn": "波斯尼亚粗毛猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 49,
+    "pet_name": "Boston Terrier",
+    "pet_name_cn": "波士顿梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 50,
+    "pet_name": "French Bulldog",
+    "pet_name_cn": "法国斗牛犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 51,
+    "pet_name": "Bouvier des Ardennes",
+    "pet_name_cn": "阿登牧牛犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 52,
+    "pet_name": "Bouvier Des Flandres Vlaamse Koehond",
+    "pet_name_cn": "佛兰德牧牛犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 53,
+    "pet_name": "Bracco Italiano",
+    "pet_name_cn": "意大利布拉可犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 54,
+    "pet_name": "Brandlbracke",
+    "pet_name_cn": "布兰德猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 55,
+    "pet_name": "Auvergne Pointer",
+    "pet_name_cn": "奥弗涅指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 56,
+    "pet_name": "Ariege Pointer",
+    "pet_name_cn": "阿列日指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 57,
+    "pet_name": "Braque Du Bourbonnais",
+    "pet_name_cn": "波旁指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 58,
+    "pet_name": "Braque Français - Type Gascogne",
+    "pet_name_cn": "加斯科涅法国指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 59,
+    "pet_name": "Braque Français - Type Pyrenees",
+    "pet_name_cn": "比利牛斯法国指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 60,
+    "pet_name": "Braque Saint-Germain",
+    "pet_name_cn": "圣日耳曼指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 61,
+    "pet_name": "Briquet Griffon Vendeen",
+    "pet_name_cn": "旺代短腿犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 62,
+    "pet_name": "Broholmer",
+    "pet_name_cn": "布罗荷尔默犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 63,
+    "pet_name": "Bull Terrier",
+    "pet_name_cn": "斗牛梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 64,
+    "pet_name": "Bulldog",
+    "pet_name_cn": "斗牛犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 65,
+    "pet_name": "Bullmastiff",
+    "pet_name_cn": "斗牛獒",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 66,
+    "pet_name": "Ca De Bestiar",
+    "pet_name_cn": "卡德贝斯蒂亚犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 67,
+    "pet_name": "Cairn Terrier",
+    "pet_name_cn": "凯恩梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 68,
+    "pet_name": "Canaan Dog",
+    "pet_name_cn": "迦南犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 69,
+    "pet_name": "Canadian Eskimo Dog",
+    "pet_name_cn": "加拿大爱斯基摩犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 70,
+    "pet_name": "Cane Corso Italiano",
+    "pet_name_cn": "意大利卡斯罗犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 71,
+    "pet_name": "Cane Da Pastore Bergamasco",
+    "pet_name_cn": "贝加马斯卡牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 72,
+    "pet_name": "Cane Da Pastore Maremmano Abruzzese",
+    "pet_name_cn": "马雷马牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 73,
+    "pet_name": "Poodle",
+    "pet_name_cn": "贵宾犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 74,
+    "pet_name": "Estrela Mountain Dog",
+    "pet_name_cn": "埃斯特雷拉山犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 75,
+    "pet_name": "Airedale Terrier",
+    "pet_name_cn": "艾尔山犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 76,
+    "pet_name": "Portuguese Water Dog",
+    "pet_name_cn": "葡萄牙水犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 77,
+    "pet_name": "Castrolaboreiro Dog",
+    "pet_name_cn": "卡斯特罗拉博雷罗犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 78,
+    "pet_name": "Trasmontano Bulldog",
+    "pet_name_cn": "特拉斯蒙塔诺牛犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 79,
+    "pet_name": "São Miguel Cattle Dog",
+    "pet_name_cn": "圣米格尔犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 80,
+    "pet_name": "Cavalier King Charles Spaniel",
+    "pet_name_cn": "骑士查理王猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 81,
+    "pet_name": "Ceskoslovenský Vlcak",
+    "pet_name_cn": "捷克斯洛伐克狼犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 82,
+    "pet_name": "Cesky Fousek",
+    "pet_name_cn": "捷克硬毛犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 83,
+    "pet_name": "Cesky Terier",
+    "pet_name_cn": "捷克梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 84,
+    "pet_name": "Chart Polski",
+    "pet_name_cn": "波兰灵缇",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 85,
+    "pet_name": "Chesapeake Bay Retriever",
+    "pet_name_cn": "切萨皮克湾寻回犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 86,
+    "pet_name": "Artois Hound",
+    "pet_name_cn": "阿图瓦犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 87,
+    "pet_name": "Belgian Shepherd",
+    "pet_name_cn": "比利时牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 88,
+    "pet_name": "Great Pyrenees (Smooth-faced)",
+    "pet_name_cn": "比利牛斯短脸牧羊犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 89,
+    "pet_name": "Long-haired Pyrenean Shepherd",
+    "pet_name_cn": "比利牛斯长毛牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 90,
+    "pet_name": "Great Pyrenees",
+    "pet_name_cn": "比利牛斯山犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 91,
+    "pet_name": "St. Hubert Hound",
+    "pet_name_cn": "圣休伯特犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 92,
+    "pet_name": "Chihuahua",
+    "pet_name_cn": "吉娃娃",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 93,
+    "pet_name": "Japanese Chin",
+    "pet_name_cn": "日本狆",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 94,
+    "pet_name": "Chinese Crested Dog",
+    "pet_name_cn": "中国冠毛犬",
+    "pet_fur_length": "hairless"
+  },
+  {
+    "row_number": 95,
+    "pet_name": "Chodsky Pes",
+    "pet_name_cn": "捷克狼犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 96,
+    "pet_name": "Chow Chow",
+    "pet_name_cn": "松狮犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 97,
+    "pet_name": "Uruguayan Cimarrón",
+    "pet_name_cn": "乌拉圭野犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 98,
+    "pet_name": "Romanian Carpathian Shepherd Dog (Black variant)",
+    "pet_name_cn": "罗马尼亚黑牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 99,
+    "pet_name": "Romanian Carpathian Shepherd Dog",
+    "pet_name_cn": "罗马尼亚喀尔巴阡牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 100,
+    "pet_name": "Romanian Bucovina Shepherd Dog",
+    "pet_name_cn": "罗马尼亚布科维纳牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 101,
+    "pet_name": "Romanian Mioritic Shepherd Dog",
+    "pet_name_cn": "罗马尼亚米奥里特牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 102,
+    "pet_name": "Sicilian Hound",
+    "pet_name_cn": "西西里猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 103,
+    "pet_name": "Clumber Spaniel",
+    "pet_name_cn": "克伦伯猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 104,
+    "pet_name": "Collie Rough",
+    "pet_name_cn": "粗毛牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 105,
+    "pet_name": "Collie Smooth",
+    "pet_name_cn": "短毛牧羊犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 106,
+    "pet_name": "Continental Bulldog",
+    "pet_name_cn": "大陆斗牛犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 107,
+    "pet_name": "Coton De Tulear",
+    "pet_name_cn": "图莱亚尔绒毛犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 108,
+    "pet_name": "Crnogorski Planinski Gonic",
+    "pet_name_cn": "黑山山地猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 109,
+    "pet_name": "Curly Coated Retriever",
+    "pet_name_cn": "卷毛寻回犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 110,
+    "pet_name": "Dachshund",
+    "pet_name_cn": "腊肠犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 111,
+    "pet_name": "Dalmatinski Pas",
+    "pet_name_cn": "达尔马提亚犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 112,
+    "pet_name": "Dandie Dinmont Terrier",
+    "pet_name_cn": "丹迪丁蒙梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 113,
+    "pet_name": "Dansk Svensk Gårdshund",
+    "pet_name_cn": "丹麦瑞典农场犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 114,
+    "pet_name": "Deerhound",
+    "pet_name_cn": "猎鹿犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 115,
+    "pet_name": "Deutsch Drahthaar",
+    "pet_name_cn": "德国硬毛指示犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 116,
+    "pet_name": "Deutsch Kurzhaar",
+    "pet_name_cn": "德国短毛指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 117,
+    "pet_name": "Deutsch Langhaar",
+    "pet_name_cn": "德国长毛指示犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 118,
+    "pet_name": "Deutsch Stichelhaar",
+    "pet_name_cn": "德国刚毛指示犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 119,
+    "pet_name": "Deutsche Bracke",
+    "pet_name_cn": "德国猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 120,
+    "pet_name": "Deutsche Dogge",
+    "pet_name_cn": "大丹犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 121,
+    "pet_name": "Boxer",
+    "pet_name_cn": "德国拳师犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 122,
+    "pet_name": "German Hunting Terrier",
+    "pet_name_cn": "德国猎梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 123,
+    "pet_name": "German Pinscher",
+    "pet_name_cn": "德国宾莎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 124,
+    "pet_name": "German Shepherd",
+    "pet_name_cn": "德国牧羊犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 125,
+    "pet_name": "German Foxhound",
+    "pet_name_cn": "德国狐狸犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 126,
+    "pet_name": "Deutscher Wachtelhund",
+    "pet_name_cn": "德国猎鹬犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 127,
+    "pet_name": "Dobermann",
+    "pet_name_cn": "杜宾犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 128,
+    "pet_name": "Dogo Argentino",
+    "pet_name_cn": "阿根廷杜高犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 129,
+    "pet_name": "Dogue De Bordeaux",
+    "pet_name_cn": "波尔多獒犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 130,
+    "pet_name": "Tibetan Mastiff",
+    "pet_name_cn": "藏獒",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 131,
+    "pet_name": "Drentsche Patrijshond",
+    "pet_name_cn": "荷兰帕特里奇犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 132,
+    "pet_name": "Drever",
+    "pet_name_cn": "德雷弗犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 133,
+    "pet_name": "Hungarian Vizsla",
+    "pet_name_cn": "匈牙利维兹拉犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 134,
+    "pet_name": "Dunker",
+    "pet_name_cn": "邓克尔犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 135,
+    "pet_name": "Estonian Hound",
+    "pet_name_cn": "爱沙尼亚猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 136,
+    "pet_name": "English Cocker Spaniel",
+    "pet_name_cn": "英国可卡犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 137,
+    "pet_name": "English Foxhound",
+    "pet_name_cn": "英国猎狐犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 138,
+    "pet_name": "English Pointer",
+    "pet_name_cn": "英国指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 139,
+    "pet_name": "English Setter",
+    "pet_name_cn": "英国塞特犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 140,
+    "pet_name": "English Springer Spaniel",
+    "pet_name_cn": "英国史宾格犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 141,
+    "pet_name": "English Toy Terrier",
+    "pet_name_cn": "英国玩具梗犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 142,
+    "pet_name": "Entlebucher Sennenhund",
+    "pet_name_cn": "恩特布赫山地犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 143,
+    "pet_name": "Picardy Spaniel",
+    "pet_name_cn": "皮卡第蓝犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 144,
+    "pet_name": "Brittany Spaniel",
+    "pet_name_cn": "布列塔尼犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 145,
+    "pet_name": "Pont-Audemer Spaniel",
+    "pet_name_cn": "蓬托德梅尔犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 146,
+    "pet_name": "Epagneul Français",
+    "pet_name_cn": "法国犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 147,
+    "pet_name": "King Charles Spaniel",
+    "pet_name_cn": "大陆玩具犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 148,
+    "pet_name": "Picardy Sheepdog",
+    "pet_name_cn": "皮卡第犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 149,
+    "pet_name": "Transylvanian Hound",
+    "pet_name_cn": "特兰西瓦尼亚猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 150,
+    "pet_name": "Eurasian Shepherd Dog",
+    "pet_name_cn": "欧亚犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 151,
+    "pet_name": "Field Spaniel",
+    "pet_name_cn": "田野猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 152,
+    "pet_name": "Fila Brasileiro",
+    "pet_name_cn": "巴西菲勒犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 153,
+    "pet_name": "Flat Coated Retriever",
+    "pet_name_cn": "平毛寻回犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 154,
+    "pet_name": "Wire Haired Fox Terrier",
+    "pet_name_cn": "刚毛猎狐梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 155,
+    "pet_name": "Fox Terrier",
+    "pet_name_cn": "猎狐梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 156,
+    "pet_name": "French Spaniel (Black & White variant)",
+    "pet_name_cn": "法国黑白犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 157,
+    "pet_name": "French Spaniel (Orange & White variant)",
+    "pet_name_cn": "法国橙白犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 158,
+    "pet_name": "Français Tricolore",
+    "pet_name_cn": "法国三色犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 159,
+    "pet_name": "Spanish Greyhound",
+    "pet_name_cn": "西班牙灵缇犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 160,
+    "pet_name": "Gammel Dansk Hønsehund",
+    "pet_name_cn": "丹麦老式鸡犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 161,
+    "pet_name": "Gascon Saintongeois",
+    "pet_name_cn": "加斯科尼圣通日犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 162,
+    "pet_name": "Golden Retriever",
+    "pet_name_cn": "金毛寻回犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 163,
+    "pet_name": "Gonczy Polski",
+    "pet_name_cn": "波兰猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 164,
+    "pet_name": "Gordon Setter",
+    "pet_name_cn": "戈登雪达犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 165,
+    "pet_name": "Catalan Sheepdog",
+    "pet_name_cn": "加泰罗尼亚牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 166,
+    "pet_name": "Valencian Rat Hunting Dog",
+    "pet_name_cn": "瓦伦西亚鼠犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 167,
+    "pet_name": "Large Anglo-French Black and White Hound",
+    "pet_name_cn": "大英法黑白猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 168,
+    "pet_name": "Large Anglo-French Orange and White Hound",
+    "pet_name_cn": "大英法橙白猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 169,
+    "pet_name": "Large Anglo-French Tricolor Hound",
+    "pet_name_cn": "大英法三色猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 170,
+    "pet_name": "Grand Vendéen Short-legged Long Curly-coated Hound\n\n",
+    "pet_name_cn": "大旺代短腿长卷毛猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 171,
+    "pet_name": "Grand Bleu de Gascogne",
+    "pet_name_cn": "大加斯科涅蓝犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 172,
+    "pet_name": "Grand Vendéen Griffon",
+    "pet_name_cn": "大旺代格里芬犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 173,
+    "pet_name": "Greyhound",
+    "pet_name_cn": "灵缇犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 174,
+    "pet_name": "Cotard's Wirehaired Griffon",
+    "pet_name_cn": "科塔尔斯硬毛格里芬犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 175,
+    "pet_name": "Belgian Griffon",
+    "pet_name_cn": "比利时格里芬犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 176,
+    "pet_name": "Griffon Bleu de Gascogne",
+    "pet_name_cn": "加斯科尼蓝格里芬犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 177,
+    "pet_name": "Brussels Griffon",
+    "pet_name_cn": "布鲁塞尔格里芬犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 178,
+    "pet_name": "Brittany Griffon",
+    "pet_name_cn": "布列塔尼黄褐格里芬犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 179,
+    "pet_name": "Nivernais Griffon",
+    "pet_name_cn": "尼韦奈格里芬犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 180,
+    "pet_name": "Greenland Dog",
+    "pet_name_cn": "格陵兰犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 181,
+    "pet_name": "Greater Münsterländer",
+    "pet_name_cn": "大明斯特兰德犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 182,
+    "pet_name": "Greater Swiss Mountain Dog",
+    "pet_name_cn": "大瑞士山地犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 183,
+    "pet_name": "Harrier",
+    "pet_name_cn": "哈尔登猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 184,
+    "pet_name": "Hamiltonstövare",
+    "pet_name_cn": "汉密尔顿猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 185,
+    "pet_name": "Hanoverian Hound",
+    "pet_name_cn": "汉诺威猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 186,
+    "pet_name": "Rabbit Hound",
+    "pet_name_cn": "猎兔犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 187,
+    "pet_name": "Greek Harehound",
+    "pet_name_cn": "希腊猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 188,
+    "pet_name": "Hokkaido Dog",
+    "pet_name_cn": "北海道犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 189,
+    "pet_name": "Dutch Shepherd",
+    "pet_name_cn": "荷兰牧羊犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 190,
+    "pet_name": "Dutch Smoushond",
+    "pet_name_cn": "荷兰斯莫斯犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 191,
+    "pet_name": "Hovawart",
+    "pet_name_cn": "霍瓦瓦特犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 192,
+    "pet_name": "Croatian Sheepdog",
+    "pet_name_cn": "克罗地亚牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 193,
+    "pet_name": "Hygenhund",
+    "pet_name_cn": "海根猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 194,
+    "pet_name": "Irish Glen Of Imaal Terrier",
+    "pet_name_cn": "爱尔兰格伦伊玛尔梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 195,
+    "pet_name": "Irish Red And White Setter",
+    "pet_name_cn": "爱尔兰红白塞特犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 196,
+    "pet_name": "Irish Red Setter",
+    "pet_name_cn": "爱尔兰红塞特犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 197,
+    "pet_name": "WHEATEN TERRIER",
+    "pet_name_cn": "爱尔兰软毛麦色梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 198,
+    "pet_name": "Irish Terrier",
+    "pet_name_cn": "爱尔兰梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 199,
+    "pet_name": "Irish Water Spaniel",
+    "pet_name_cn": "爱尔兰水猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 200,
+    "pet_name": "Irish Wolfhound",
+    "pet_name_cn": "爱尔兰猎狼犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 201,
+    "pet_name": "Istrian Coarse-haired Hound",
+    "pet_name_cn": "伊斯特拉粗毛猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 202,
+    "pet_name": "Istrian Shorthaired Hound",
+    "pet_name_cn": "伊斯特拉短毛猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 203,
+    "pet_name": "Jack Russell Terrier",
+    "pet_name_cn": "杰克罗素梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 204,
+    "pet_name": "Swedish Elkhound",
+    "pet_name_cn": "瑞典猎麋犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 205,
+    "pet_name": "Yugoslavian Shepherd Dog",
+    "pet_name_cn": "南斯拉夫牧羊犬-萨普兰尼那克犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 206,
+    "pet_name": "Kangal Shepherd Dog",
+    "pet_name_cn": "坎高牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 207,
+    "pet_name": "Karelian Bear Dog",
+    "pet_name_cn": "卡累利阿熊犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 208,
+    "pet_name": "Caucasian Shepherd Dog",
+    "pet_name_cn": "高加索牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 209,
+    "pet_name": "Kazakh Tazy",
+    "pet_name_cn": "哈萨克灵缇",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 210,
+    "pet_name": "Kerry Blue Terrier",
+    "pet_name_cn": "凯利蓝梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 211,
+    "pet_name": "King Charles Spaniel",
+    "pet_name_cn": "查尔斯王猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 212,
+    "pet_name": "Kishu",
+    "pet_name_cn": "纪州犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 213,
+    "pet_name": "Kleiner Münsterländer",
+    "pet_name_cn": "小型明斯特兰德犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 214,
+    "pet_name": "Komondor",
+    "pet_name_cn": "可蒙犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 215,
+    "pet_name": "Korea Jindo Dog",
+    "pet_name_cn": "韩国珍岛犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 216,
+    "pet_name": "Kraski Ovcar",
+    "pet_name_cn": "克拉斯基牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 217,
+    "pet_name": "Kromfohrländer",
+    "pet_name_cn": "克罗姆福兰德犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 218,
+    "pet_name": "Kuvasz",
+    "pet_name_cn": "库瓦兹犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 219,
+    "pet_name": "Labrador Retriever",
+    "pet_name_cn": "拉布拉多寻回犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 220,
+    "pet_name": "Lagotto Romagnolo",
+    "pet_name_cn": "拉戈托罗马诺洛犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 221,
+    "pet_name": "Lakeland Terrier",
+    "pet_name_cn": "湖畔梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 222,
+    "pet_name": "Lancashire Heeler",
+    "pet_name_cn": "兰开夏赫勒犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 223,
+    "pet_name": "Landseer",
+    "pet_name_cn": "兰西尔犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 224,
+    "pet_name": "Lapinporokoira",
+    "pet_name_cn": "拉宾波洛柯伊拉犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 225,
+    "pet_name": "Leonberger",
+    "pet_name_cn": "莱昂伯格犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 226,
+    "pet_name": "Lhasa Apso",
+    "pet_name_cn": "拉萨犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 227,
+    "pet_name": "Magyar Agar",
+    "pet_name_cn": "匈牙利灵缇犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 228,
+    "pet_name": "Maltese",
+    "pet_name_cn": "马尔济斯犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 229,
+    "pet_name": "Manchester Terrier",
+    "pet_name_cn": "曼彻斯特梗犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 230,
+    "pet_name": "Mastiff",
+    "pet_name_cn": "獒犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 231,
+    "pet_name": "Mastin Del Pirineo",
+    "pet_name_cn": "比利牛斯獒犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 232,
+    "pet_name": "Mastín Español",
+    "pet_name_cn": "西班牙獒",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 233,
+    "pet_name": "Mastino Napoletano",
+    "pet_name_cn": "那不勒斯獒",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 234,
+    "pet_name": "Miniature American Shepherd",
+    "pet_name_cn": "迷你美国牧羊犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 235,
+    "pet_name": "Miniature Bull Terrier",
+    "pet_name_cn": "迷你斗牛梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 236,
+    "pet_name": "Mudi",
+    "pet_name_cn": "穆迪犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 237,
+    "pet_name": "Dutch Spaniel",
+    "pet_name_cn": "荷兰猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 238,
+    "pet_name": "Dutch Shepherd",
+    "pet_name_cn": "荷兰牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 239,
+    "pet_name": "Newfoundland",
+    "pet_name_cn": "纽芬兰犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 240,
+    "pet_name": "Japanese Spitz",
+    "pet_name_cn": "日本斯皮茨犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 241,
+    "pet_name": "Japanese Terrier",
+    "pet_name_cn": "日本梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 242,
+    "pet_name": "Norfolk Terrier",
+    "pet_name_cn": "诺福克梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 243,
+    "pet_name": "Norfolk Hunter",
+    "pet_name_cn": "诺尔布顿猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 244,
+    "pet_name": "Norwegian Buhund",
+    "pet_name_cn": "挪威布哈德犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 245,
+    "pet_name": "Norwegian Elkhound",
+    "pet_name_cn": "挪威麋犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 246,
+    "pet_name": "Norwegian Lundehund",
+    "pet_name_cn": "挪威伦德猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 247,
+    "pet_name": "Norwich Terrier",
+    "pet_name_cn": "诺里奇梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 248,
+    "pet_name": "Nova Scotia Duck Tolling Retriever",
+    "pet_name_cn": "新斯科舍猎鸭寻回犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 249,
+    "pet_name": "Ogar Polski",
+    "pet_name_cn": "波兰猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 250,
+    "pet_name": "Old English Sheepdog",
+    "pet_name_cn": "古代英国牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 251,
+    "pet_name": "Otterhound",
+    "pet_name_cn": "水獭猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 252,
+    "pet_name": "Parson Russell Terrier",
+    "pet_name_cn": "帕森罗素梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 253,
+    "pet_name": "Pekingese",
+    "pet_name_cn": "北京犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 254,
+    "pet_name": "Portuguese Pointer",
+    "pet_name_cn": "葡萄牙指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 255,
+    "pet_name": "Burgos Pointer",
+    "pet_name_cn": "布尔戈斯指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 256,
+    "pet_name": "Spanish Water Dog",
+    "pet_name_cn": "西班牙水犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 257,
+    "pet_name": "Ca de Bestiar Mallorquí",
+    "pet_name_cn": "马略卡獒犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 258,
+    "pet_name": "Peruvian Inca Orchid",
+    "pet_name_cn": "秘鲁无毛犬",
+    "pet_fur_length": "hairless"
+  },
+  {
+    "row_number": 259,
+    "pet_name": "Petit Basset Griffon Vendeen",
+    "pet_name_cn": "小旺代短腿长卷毛猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 260,
+    "pet_name": "Petit Bleu de Gascogne",
+    "pet_name_cn": "小加斯科尼蓝犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 261,
+    "pet_name": "Petit Brabancon",
+    "pet_name_cn": "小布拉班松犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 262,
+    "pet_name": "Petit Chien Lion",
+    "pet_name_cn": "小狮犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 263,
+    "pet_name": "Pharaoh Hound",
+    "pet_name_cn": "法老王猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 264,
+    "pet_name": "Piccolo Levriero Italiano",
+    "pet_name_cn": "意大利小灵缇犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 265,
+    "pet_name": "Podenco Canario",
+    "pet_name_cn": "加那利猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 266,
+    "pet_name": "Podenco Ibicenco",
+    "pet_name_cn": "伊比沙猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 267,
+    "pet_name": "Podengo Portugues",
+    "pet_name_cn": "葡萄牙猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 268,
+    "pet_name": "Poitevin",
+    "pet_name_cn": "普瓦特文犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 269,
+    "pet_name": "Polski Owczarek Nizinny",
+    "pet_name_cn": "波兰低地牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 270,
+    "pet_name": "Polski Owczarek Podhalanski",
+    "pet_name_cn": "波兰塔特拉山牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 271,
+    "pet_name": "Porcelaine",
+    "pet_name_cn": "波西米亚犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 272,
+    "pet_name": "Posavski Gonic",
+    "pet_name_cn": "波萨瓦克猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 273,
+    "pet_name": "Prazsky Krysarik",
+    "pet_name_cn": "布拉格鼠犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 274,
+    "pet_name": "Presa Canario",
+    "pet_name_cn": "加那利獒犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 275,
+    "pet_name": "Poodle Pointer",
+    "pet_name_cn": "贵宾指示犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 276,
+    "pet_name": "Pug",
+    "pet_name_cn": "巴哥犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 277,
+    "pet_name": "Puli",
+    "pet_name_cn": "波利犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 278,
+    "pet_name": "Pumi",
+    "pet_name_cn": "普密犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 279,
+    "pet_name": "Alentejo Mastiff",
+    "pet_name_cn": "阿连特茹獒犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 280,
+    "pet_name": "Brazilian Tracking Dog",
+    "pet_name_cn": "巴西追踪犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 281,
+    "pet_name": "Ratonero Bodeguero Andaluz",
+    "pet_name_cn": "安达卢西亚鼠犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 282,
+    "pet_name": "Rhodesian Ridgeback",
+    "pet_name_cn": "罗得西亚脊背犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 283,
+    "pet_name": "Giant Schnauzer",
+    "pet_name_cn": "巨型雪纳瑞",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 284,
+    "pet_name": "Rottweiler",
+    "pet_name_cn": "罗威纳犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 285,
+    "pet_name": "Hungarian Shorthaired Pointer",
+    "pet_name_cn": "匈牙利短毛指示犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 286,
+    "pet_name": "Borzoi",
+    "pet_name_cn": "俄罗斯猎狼犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 287,
+    "pet_name": "Russkiy Tchiorny Terrier",
+    "pet_name_cn": "俄罗斯黑梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 288,
+    "pet_name": "Russkiy Toy",
+    "pet_name_cn": "俄罗斯玩具犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 289,
+    "pet_name": "Russian European Laika",
+    "pet_name_cn": "俄罗斯欧洲莱卡犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 290,
+    "pet_name": "Saarlooswolfhond",
+    "pet_name_cn": "萨卢斯狼犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 291,
+    "pet_name": "Sabueso Espanol",
+    "pet_name_cn": "西班牙猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 292,
+    "pet_name": "Saluki",
+    "pet_name_cn": "萨路基猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 293,
+    "pet_name": "Samoyed",
+    "pet_name_cn": "萨摩耶犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 294,
+    "pet_name": "Schiller Hound",
+    "pet_name_cn": "席勒猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 295,
+    "pet_name": "Belgian Shepherd",
+    "pet_name_cn": "比利时牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 296,
+    "pet_name": "Schnauzer",
+    "pet_name_cn": "雪纳瑞犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 297,
+    "pet_name": "Swiss Basset Hound",
+    "pet_name_cn": "瑞士矮脚猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 298,
+    "pet_name": "Swiss Hound",
+    "pet_name_cn": "瑞士猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 299,
+    "pet_name": "Scottish Terrier",
+    "pet_name_cn": "苏格兰梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 300,
+    "pet_name": "Sealyham Terrier",
+    "pet_name_cn": "西里汉梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 301,
+    "pet_name": "Italian Spinone",
+    "pet_name_cn": "意大利硬毛猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 302,
+    "pet_name": "Italian Shorthaired Pointer",
+    "pet_name_cn": "意大利短毛猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 303,
+    "pet_name": "Maremma Sheepdog",
+    "pet_name_cn": "马雷马猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 304,
+    "pet_name": "Shar Pei",
+    "pet_name_cn": "沙皮犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 305,
+    "pet_name": "Shetland Sheepdog",
+    "pet_name_cn": "喜乐蒂牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 306,
+    "pet_name": "Shiba Inu",
+    "pet_name_cn": "柴犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 307,
+    "pet_name": "Shih Tzu",
+    "pet_name_cn": "西施犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 308,
+    "pet_name": "Shikoku",
+    "pet_name_cn": "四国犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 309,
+    "pet_name": "Siberian Husky",
+    "pet_name_cn": "西伯利亚哈士奇",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 310,
+    "pet_name": "Skye Terrier",
+    "pet_name_cn": "斯凯梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 311,
+    "pet_name": "Sloughi",
+    "pet_name_cn": "斯劳格犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 312,
+    "pet_name": "Slovensky Cuvac",
+    "pet_name_cn": "斯洛伐克库瓦克犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 313,
+    "pet_name": "Slovak Rough-haired Pointer",
+    "pet_name_cn": "斯洛伐克粗毛猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 314,
+    "pet_name": "Slovak Hound",
+    "pet_name_cn": "斯洛伐克猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 315,
+    "pet_name": "Smålandsstövare",
+    "pet_name_cn": "斯莫兰猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 316,
+    "pet_name": "Spinone Italiano",
+    "pet_name_cn": "意大利斯皮诺犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 317,
+    "pet_name": "Central Asian Shepherd Dog",
+    "pet_name_cn": "中亚牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 318,
+    "pet_name": "Srpski Gonic",
+    "pet_name_cn": "塞尔维亚猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 319,
+    "pet_name": "Srpski Trobojni Gonic",
+    "pet_name_cn": "塞尔维亚三色猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 320,
+    "pet_name": "Saint Bernard",
+    "pet_name_cn": "圣伯纳犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 321,
+    "pet_name": "Stabijhoun",
+    "pet_name_cn": "斯塔比豪恩犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 322,
+    "pet_name": "Staffordshire Bull Terrier",
+    "pet_name_cn": "斯塔福德郡斗牛梗",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 323,
+    "pet_name": "Steirische Rauhhaarbracke",
+    "pet_name_cn": "施泰尔粗毛猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 324,
+    "pet_name": "Finnish Hound",
+    "pet_name_cn": "芬兰猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 325,
+    "pet_name": "Lapponian Herder",
+    "pet_name_cn": "芬兰拉普猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 326,
+    "pet_name": "Finnish Spitz",
+    "pet_name_cn": "芬兰尖嘴犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 327,
+    "pet_name": "Sussex Spaniel",
+    "pet_name_cn": "苏塞克斯猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 328,
+    "pet_name": "Swedish Lapphund",
+    "pet_name_cn": "瑞典拉普猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 329,
+    "pet_name": "Taiwan Dog",
+    "pet_name_cn": "台湾犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 330,
+    "pet_name": "Brazilian Terrier",
+    "pet_name_cn": "巴西梗犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 331,
+    "pet_name": "Thai Bangkaew Dog",
+    "pet_name_cn": "泰国班凯奥犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 332,
+    "pet_name": "Thai Ridgeback Dog",
+    "pet_name_cn": "泰国脊背犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 333,
+    "pet_name": "Tibetan Spaniel",
+    "pet_name_cn": "西藏猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 334,
+    "pet_name": "Tibetan Terrier",
+    "pet_name_cn": "西藏梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 335,
+    "pet_name": "Tiroler Bracke",
+    "pet_name_cn": "蒂罗尔猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 336,
+    "pet_name": "Tornjak",
+    "pet_name_cn": "托尔尼亚克犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 337,
+    "pet_name": "Tosa",
+    "pet_name_cn": "土佐犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 338,
+    "pet_name": "West Highland White Terrier",
+    "pet_name_cn": "西高地白梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 339,
+    "pet_name": "Volpino Italiano",
+    "pet_name_cn": "意大利狐狸犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 340,
+    "pet_name": "East Siberian Laika",
+    "pet_name_cn": "东西伯利亚莱卡犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 341,
+    "pet_name": "Weimaraner",
+    "pet_name_cn": "魏玛猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 342,
+    "pet_name": "Cardigan Welsh Corgi",
+    "pet_name_cn": "卡迪根威尔士柯基犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 343,
+    "pet_name": "Pembroke Welsh Corgi",
+    "pet_name_cn": "彭布罗克威尔士柯基犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 344,
+    "pet_name": "Welsh Springer Spaniel",
+    "pet_name_cn": "威尔士激飞猎犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 345,
+    "pet_name": "Welsh Terrier",
+    "pet_name_cn": "威尔士梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 346,
+    "pet_name": "West Highland White Terrier",
+    "pet_name_cn": "西部高地白梗",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 347,
+    "pet_name": "Westfälische Dachsbracke",
+    "pet_name_cn": "威斯特伐利亚猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 348,
+    "pet_name": "Wetterhoun",
+    "pet_name_cn": "荷兰水猎犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 349,
+    "pet_name": "Whippet",
+    "pet_name_cn": "惠比特犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 350,
+    "pet_name": "Xoloitzcuintli",
+    "pet_name_cn": "墨西哥无毛犬",
+    "pet_fur_length": "hairless"
+  },
+  {
+    "row_number": 351,
+    "pet_name": "Yakutskaya Laika",
+    "pet_name_cn": "雅库特莱卡犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 352,
+    "pet_name": "Yorkshire Terrier",
+    "pet_name_cn": "约克夏梗",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 353,
+    "pet_name": "South Russian Ovcharka",
+    "pet_name_cn": "南俄牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 354,
+    "pet_name": "Siberian Laika",
+    "pet_name_cn": "西伯利亚莱卡犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 355,
+    "pet_name": "Miniature Pinscher",
+    "pet_name_cn": "迷你宾莎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 356,
+    "pet_name": "Miniature Schnauzer",
+    "pet_name_cn": "迷你雪纳瑞",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 357,
+    "pet_name": "Pomeranian",
+    "pet_name_cn": "博美犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 358,
+    "pet_name": "German Shorthaired",
+    "pet_name_cn": "德国短毛猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 359,
+    "pet_name": "American Pit Bull Terrier",
+    "pet_name_cn": "美洲比特犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 360,
+    "pet_name": "Keeshond",
+    "pet_name_cn": "凯斯犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 361,
+    "pet_name": "American Bulldog",
+    "pet_name_cn": "美洲斗牛犬",
+    "pet_fur_length": "hairless"
+  },
+  {
+    "row_number": 362,
+    "pet_name": "Scottish Deerhound",
+    "pet_name_cn": "苏格兰猎鹿犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 363,
+    "pet_name": "Ibizan Hound",
+    "pet_name_cn": "伊比赞猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 364,
+    "pet_name": "Schipperke",
+    "pet_name_cn": "斯奇派克犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 365,
+    "pet_name": "Malinois",
+    "pet_name_cn": "比利时玛利诺斯犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 366,
+    "pet_name": "Dhole",
+    "pet_name_cn": "亚洲野犬",
+    "pet_fur_length": "mediumhair"
+  },
+  {
+    "row_number": 367,
+    "pet_name": "Briard",
+    "pet_name_cn": "法国牧羊犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 368,
+    "pet_name": "Redbone Coonhound",
+    "pet_name_cn": "红骨浣熊猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 369,
+    "pet_name": "Bluetick Coonhound",
+    "pet_name_cn": "蓝斑浣熊猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 370,
+    "pet_name": "Papillon",
+    "pet_name_cn": "帕皮勇犬",
+    "pet_fur_length": "longhair"
+  },
+  {
+    "row_number": 371,
+    "pet_name": "Italian Greyhound",
+    "pet_name_cn": "意大利小猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 372,
+    "pet_name": "African Hunting Dog",
+    "pet_name_cn": "非洲野犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 373,
+    "pet_name": "Treeing Walker Coonhound",
+    "pet_name_cn": "树走猎浣熊犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 374,
+    "pet_name": "Bloodhound",
+    "pet_name_cn": "嗅血猎犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 375,
+    "pet_name": "Dingo",
+    "pet_name_cn": "澳大利亚野犬",
+    "pet_fur_length": "shorthair"
+  },
+  {
+    "row_number": 376,
+    "pet_name": "Groenendael",
+    "pet_name_cn": "比利时黑犬",
+    "pet_fur_length": "longhair"
+  }
+]

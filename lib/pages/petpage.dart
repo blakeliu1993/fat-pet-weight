@@ -8,6 +8,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:pet_fat_weight/utils/httpproc.dart';
 import 'package:pet_fat_weight/utils/imagecompress.dart';
 import 'package:pet_fat_weight/utils/tensorflow.dart';
+import 'package:pet_fat_weight/widgets/constantvalues.dart';
 
 class PetPage extends StatefulWidget {
   const PetPage({super.key});
@@ -35,189 +36,105 @@ class _PetPageState extends State<PetPage> {
     double screenWidth = MediaQuery.of(context).size.width;
     double screenHeight = MediaQuery.of(context).size.height;
     return SingleChildScrollView(
-      child: Column(
-        children: [
-          Text("PetPage"),
-          SegmentedButton<int>(
-            segments: List.generate(
-              _options.length,
-              (index) => ButtonSegment(
-                value: index,
-                label: Text(_options[index]),
-                icon: _optionsIcon[index],
-              ),
-            ),
-            selected: {_selectedOptions},
-            onSelectionChanged: (newSelection) {
-              setState(() {
-                _selectedOptions = newSelection.first;
-              });
-            },
+      child: Container(
+        height: screenHeight,
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [blueGradientStart, blueGradientEnd],
+            begin: Alignment.bottomCenter,
+            end: Alignment.topCenter,
           ),
-          ValueListenableBuilder<XFile>(
-            valueListenable: _selectedImage,
-            builder: (context, value, child) {
-              return SizedBox(
-                width: screenWidth,
-                height: screenWidth * 3 / 4,
-                child:
-                    value.path.isNotEmpty
-                        ? Image.file(File(value.path))
-                        : Text("No image selected"),
-              );
-            },
-          ),
-          Row(
+        ),
+        child: IntrinsicHeight(
+          child: Column(
             children: [
-              Expanded(
-                child: TextButton(
-                  onPressed: _cameraImage,
-                  child: Text("Camera"),
+              SegmentedButton<int>(
+                segments: List.generate(
+                  _options.length,
+                  (index) => ButtonSegment(
+                    value: index,
+                    label: Text(_options[index]),
+                    icon: _optionsIcon[index],
+                  ),
                 ),
+                selected: {_selectedOptions},
+                onSelectionChanged: (newSelection) {
+                  setState(() {
+                    _selectedOptions = newSelection.first;
+                  });
+                },
               ),
-              Expanded(
-                child: TextButton(
-                  onPressed: _galleryImage,
-                  child: Text("Gallery"),
-                ),
+              ValueListenableBuilder<XFile>(
+                valueListenable: _selectedImage,
+                builder: (context, value, child) {
+                  return SizedBox(
+                    width: screenWidth,
+                    height: screenWidth * 3 / 4,
+                    child:
+                        value.path.isNotEmpty
+                            ? Image.file(File(value.path))
+                            : Text("No image selected"),
+                  );
+                },
+              ),
+              Row(
+                children: [
+                  Expanded(
+                    child: TextButton(
+                      onPressed: _cameraImage,
+                      child: Text("Camera"),
+                    ),
+                  ),
+                  Expanded(
+                    child: TextButton(
+                      onPressed: _galleryImage,
+                      child: Text("Gallery"),
+                    ),
+                  ),
+                ],
+              ),
+              ElevatedButton(
+                onPressed: _startAnalysis,
+                child: Text("Start Analysis"),
+              ),
+              ...List.generate(_petInfo.length, (index) {
+                return SelectableText.rich(
+                  TextSpan(
+                    children: [
+                      TextSpan(
+                        text: _petInfo.keys.toList()[index],
+                        style: TextStyle(
+                          color: Colors.black,
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      TextSpan(text: ": "),
+                      TextSpan(
+                        text: _petInfo.values.toList()[index].toString(),
+                        style: TextStyle(color: Colors.black, fontSize: 16),
+                      ),
+                    ],
+                  ),
+                );
+              }),
+
+              ElevatedButton(
+                onPressed: _uploadEsResult,
+                child: Text("Any Issue ? Click me"),
               ),
             ],
           ),
-          ElevatedButton(
-            onPressed: _startAnalysis,
-            child: Text("Start Analysis"),
-          ),
-          ...List.generate(_petInfo.length, (index) {
-            return SelectableText.rich(
-                TextSpan(
-                  children: [
-                    TextSpan(
-                      text: _petInfo.keys.toList()[index],
-                      style: TextStyle(
-                        color: Colors.black,
-                        fontSize: 16,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                    TextSpan(text: ": "),
-                    TextSpan(
-                      text: _petInfo.values.toList()[index].toString(),
-                      style: TextStyle(color: Colors.black, fontSize: 16),
-                    ),
-                  ],
-                ),
-              );
-          }),
-          // ListView.builder(
-          //   itemBuilder: (context, index) {
-          //     return SelectableText.rich(
-          //       TextSpan(
-          //         children: [
-          //           TextSpan(
-          //             text: _petInfo.keys.toList()[index],
-          //             style: TextStyle(
-          //               color: Colors.black,
-          //               fontSize: 16,
-          //               fontWeight: FontWeight.bold,
-          //             ),
-          //           ),
-          //           TextSpan(text: ": "),
-          //           TextSpan(
-          //             text: _petInfo.values.toList()[index].toString(),
-          //             style: TextStyle(color: Colors.black, fontSize: 16),
-          //           ),
-          //         ],
-          //       ),
-          //     );
-          //   },
-          //   itemCount: _petInfo.length,
-          // ),
-          Container(
-            height: screenHeight * 0.05,
-            decoration: BoxDecoration(
-              border: Border(
-                top: BorderSide(color: Colors.black, width: 1),
-                bottom: BorderSide(color: Colors.black, width: 1),
-              ),
-            ),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: [
-                Text("Right:"),
-                Radio(value: "right", groupValue: _petInfo["isRight"], onChanged: (value) {
-                  setState(() {
-                    _petInfo["isRight"] = value;
-                  });
-                }),
-                VerticalDivider(
-                  width: 10,
-                  color: Colors.black,
-                  thickness: 1,
-                ),
-                Text("Wrong:"),
-                Radio(value: "wrong", groupValue: _petInfo["isRight"], onChanged: (value) {
-                  setState(() {
-                    _petInfo["isRight"] = value;
-                  });
-                }),
-              ],
-            ),
-          ),
-          if(_petInfo["isRight"] == "wrong") TextField(
-            controller: _commentController,
-            decoration: InputDecoration(
-              hintText: "Please input your comment",
-              border: OutlineInputBorder(),
-              enabledBorder: OutlineInputBorder(
-                borderSide: BorderSide(color: Colors.black, width: 1),
-              ),
-              focusedBorder: OutlineInputBorder(
-                borderSide: BorderSide(color: Colors.black, width: 1),
-              ),
-            ),
-          ),
-          ElevatedButton(onPressed: _uploadEsResult, child: Text("Report")),
-        ],
+        ),
       ),
     );
   }
 
   Future<void> _uploadEsResult() async {
-    if (_petInfo.isEmpty) {
-      if (mounted) {
-        ScaffoldMessenger.of(
-          context,
-        ).showSnackBar(SnackBar(content: Text("Please Start Analysis First")));
-      }
-      return;
-    }
-    if(_commentController.text.isNotEmpty){
-      _petInfo["comment"] = _commentController.text;
-    }
-    if (_petInfo.isNotEmpty) {
-      bool updalodResult = await HttpProc.uploadEsResult(
-        _petInfo,
-        _selectedImage.value.path,
-      );
-      if (updalodResult) {
-        setState(() {
-          _selectedImage.value = XFile("");
-          _petInfo = {};
-          _commentController.clear();
-        });
-        if (mounted) {
-          ScaffoldMessenger.of(
-            context,
-          ).showSnackBar(SnackBar(content: Text("Upload Success")));
-        }
-      } else {
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(content: Text("Upload Failed , Maybe try again later.")),
-          );
-        }
-      }
-    }
+    //https://alidocs.dingtalk.com/notable/share/form/v011wvqrebAwQ2rvnak_modftrA_iacJAgh
+    String url =
+        "https://alidocs.dingtalk.com/notable/share/form/v011wvqrebAwQ2rvnak_modftrA_iacJAgh";
+    HttpProc.launchrURL(url);
   }
 
   Future<void> _cameraImage() async {
@@ -261,11 +178,7 @@ class _PetPageState extends State<PetPage> {
         // LLM QW_VL_TURBO required less than 10Mb base64 Image , means origin image should be around 7-8Mb
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text(
-                "Uploading to Qwen-VL-PLUS...",
-              ),
-            ),
+            SnackBar(content: Text("Uploading to Qwen-VL-PLUS...")),
           );
         }
         var compressedImage = await compressImageWithLimit(
@@ -291,14 +204,23 @@ class _PetPageState extends State<PetPage> {
         break;
       case 1:
         // Native
-        if (mounted) {
-          ScaffoldMessenger.of(
-            context,
-          ).showSnackBar(SnackBar(content: Text("Native is developing...")));
-        }
-        break;
-        // final result = await TensorflowUtils.predict(imageBytes);
-        // debugPrint("result: $result");
+        debugPrint("current time is : ${DateTime.now()}");
+        TensorflowUtils.predict(imageBytes)
+            .then((result) {
+              debugPrint("Native result: $result");
+              setState(() {
+                _petInfo = result;
+              });
+              debugPrint("Native finished at time : ${DateTime.now()}");
+            })
+            .catchError((error) {
+              debugPrint("Error during prediction: $error");
+              if (mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  SnackBar(content: Text("Prediction failed: $error")),
+                );
+              }
+            });
         break;
       case 2:
         if (mounted) {
